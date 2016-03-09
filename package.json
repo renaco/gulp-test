@@ -1,0 +1,14 @@
+{
+  "name": "inline",
+  "version": "1.0.0",
+  "description": "test inline",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "renaco",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-inline-source": "^2.1.0"
+  }
+}
