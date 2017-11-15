@@ -4,3 +4,8 @@ h2 {
 .some-style {
   color: red;
 }
+
+.another-style {
+  font-size: 2em;
+  color: green;
+}
